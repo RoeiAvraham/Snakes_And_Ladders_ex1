@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/Anat/Dropbox/Roei_and_Anat/JAVA/Snakes_And_Ladders_ex1/Snakes_And_Ladders_ex1/../../../../../Desktop/XML%20and%20XSD%20v1.4/snakesandladders.xsd" uri="xml-resources/jaxb/SnakesAndLaddersXML/snakesandladders.xsd"/>
+    <system systemId="file:/C:/Users/Anat/Dropbox/Roei_and_Anat/JAVA/Snakes_And_Ladders_ex1/Snakes_And_Ladders_ex1/snakesandladders.xsd" uri="xml-resources/jaxb/xmlBinding/snakesandladders.xsd"/>
+</catalog>
